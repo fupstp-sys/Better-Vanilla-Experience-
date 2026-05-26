@@ -1,8 +1,8 @@
 # Better-Vanilla-Experience-
 🌟 Better Vanilla Exp. (1.21.11 Fabric) Bored of vanilla? This Vanilla+ pack hardens survival, keeping the classic vibe. Features: custom world gen, seasons, harsh winters, historical weapons, 3D depth, and top optimization. Try it!
 Better Vanilla Experience — Mod Guide (Version 1.0)
-
 Below is a quick guide to the main mods included in the build, so you know what features await you in the game!
+https://boosty.to/banifadze-modpack here
 
 ============================================================================
 🌍 WORLD EXPLORATION AND GENERATION
